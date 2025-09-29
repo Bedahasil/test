@@ -167,33 +167,11 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #EXTINF:-1 tvg-logo="https://channeljowo.com/wp-content/uploads/2024/09/cropped-LOGO-CHANNEL-JOWO_04-1536x642.png" group-title="Shareext@LOKAL_ID", Channel Jowo
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
-#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV_oxy(televizo)
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=vtv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",ANTV_oxy(televizo)
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=antv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",TVONE_oxy(televizo)
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=tvone|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",RTV_oxy(televizo)
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=rtv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",OXYGENTV_oxy(televizo)
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=oxygentv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",KOMPASTV_oxy(televizo)
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=kompastv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",METROTV_oxy(televizo)
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=metrotv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",TVRI_oxy(televizo)
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=tvri|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg", InsanTV(intec)
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png", VTV (intec)
+https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg", InsanTV (intec)
 https://flv.intechmedia.net/live/ch1.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg", Hijrahtv(intec)
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg", Hijrahtv (intec)
 https://flv.intechmedia.net/live/ch8.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://pictr.com/images/2025/01/23/xpuDen.jpg" tvg-id="Local.Programming.Dummy.us" group-title="Shareext@LOKAL_ID",Garuda TV(1080)
@@ -282,308 +260,6 @@ http://iptvtree.net:8080/F28312/cc1dc138/166410
 http://iptvtree.net:8080/F28312/cc1dc138/306478
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Tech Storm (3)
 http://iptvtree.net:8080/F28312/cc1dc138/298572
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", CHAMPIONS 1
-http://103.179.182.117:6768/hls/66/66.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", CHAMPIONS 2
-http://103.179.182.117:6768/hls/88/88.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", CHAMPIONS_6
-http://103.179.182.117:6768/hls/94/94.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", CHAMPIONS 5
-http://103.179.182.117:6768/hls/21/21.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", TVRI SPORT
-http://103.179.182.117:6768/hls/49/49.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", SPO_1
-http://103.179.182.117:6768/hls/15/15.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", SPO 2
-http://103.179.182.117:6768/hls/86/86.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", VOLI
-http://103.179.182.117:6768/hls/2/2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", JOWO CH.
-http://103.179.182.117:6768/hls/3/3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", HOOREE
-http://103.179.182.117:6768/hls/4/4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", CN
-http://103.179.182.117:6768/hls/5/5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", CARTOONITO
-http://103.179.182.117:6768/hls/6/6.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", DREAMWORK
-http://103.179.182.117:6768/hls/7/7.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", NICKELODEON
-http://103.179.182.117:6768/hls/9/9.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", NICK JUNIOR
-http://103.179.182.117:6768/hls/10/10.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", GARUDA
-http://103.179.182.117:6768/hls/11/11.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", ANIMAL_PLANET
-http://103.179.182.117:6768/hls/12/12.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", HISTORY
-http://103.179.182.117:6768/hls/14/14.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", FIGHT
-http://103.179.182.117:6768/hls/16/16.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", METRO
-http://103.179.182.117:6768/hls/19/19.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", MTV LIVE
-http://103.179.182.117:6768/hls/20/20.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", ALLPLAY.NET
-http://103.179.182.117:6768/hls/23/23.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", NBA
-http://103.179.182.117:6768/hls/25/25.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", CINEMAX
-http://103.179.182.117:6768/hls/26/26.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", HBO
-http://103.179.182.117:6768/hls/27/27.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", HBO HITS
-http://103.179.182.117:6768/hls/28/28.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", HBO_SIGNATURE
-http://103.179.182.117:6768/hls/29/29.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", HBO_FAMILY
-http://103.179.182.117:6768/hls/30/30.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", Bioskop Indonesia
-http://103.179.182.117:6768/hls/31/31.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", Z bioskop
-http://103.179.182.117:6768/hls/32/32.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", Flix
-http://103.179.182.117:6768/hls/33/33.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", IMC
-http://103.179.182.117:6768/hls/34/34.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", My_Streem2
-http://103.179.182.117:6768/hls/35/35.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", JTV
-http://103.179.182.117:6768/hls/36/36.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", ONE
-http://103.179.182.117:6768/hls/37/37.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", KIX
-http://103.179.182.117:6768/hls/38/38.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", GALAXY
-http://103.179.182.117:6768/hls/39/39.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", GALAXY_PREMIUM
-http://103.179.182.117:6768/hls/40/40.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", WARNER
-http://103.179.182.117:6768/hls/41/41.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", TRANS 7
-http://103.179.182.117:6768/hls/42/42.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", TRANS TV
-http://103.179.182.117:6768/hls/43/43.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", MD_TV
-http://103.179.182.117:6768/hls/44/44.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", ANTV
-http://103.179.182.117:6768/hls/45/45.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", TVONE
-http://103.179.182.117:6768/hls/46/46.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", VTV
-http://103.179.182.117:6768/hls/47/47.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", MENTARI
-http://103.179.182.117:6768/hls/48/48.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", MOJI
-http://103.179.182.117:6768/hls/50/50.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", RCTI
-http://103.179.182.117:6768/hls/51/51.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", INEWS
-http://103.179.182.117:6768/hls/52/52.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", KOMPAS
-http://103.179.182.117:6768/hls/53/53.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", MNCTV
-http://103.179.182.117:6768/hls/54/54.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", SCTV
-http://103.179.182.117:6768/hls/55/55.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", INDOSIAR
-http://103.179.182.117:6768/hls/56/56.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", GTV
-http://103.179.182.117:6768/hls/57/57.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", CNBC
-http://103.179.182.117:6768/hls/58/58.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", CNN Indonesia
-http://103.179.182.117:6768/hls/59/59.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", CNN INT.
-http://103.179.182.117:6768/hls/60/60.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", Live
-http://103.179.182.117:6768/hls/61/61.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", Wsport
-http://103.179.182.117:6768/hls/62/62.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", TVRI
-http://103.179.182.117:6768/hls/63/63.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", AXN
-http://103.179.182.117:6768/hls/64/64.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", DISCOVERY ASIA
-http://103.179.182.117:6768/hls/65/65.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", CINEMA WORLD
-http://103.179.182.117:6768/hls/67/67.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", CELESTIAL MOVIE
-http://103.179.182.117:6768/hls/68/68.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", Curiosity
-http://103.179.182.117:6768/hls/69/69.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", .Live
-http://103.179.182.117:6768/hls/70/70.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", My_Streem
-http://103.179.182.117:6768/hls/71/71.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", TVN
-http://103.179.182.117:6768/hls/72/72.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", TVN MOVIE
-http://103.179.182.117:6768/hls/73/73.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", BALI TV
-http://103.179.182.117:6768/hls/74/74.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", LOVE NATURE
-http://103.179.182.117:6768/hls/75/75.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", Maxstream
-http://103.179.182.117:6768/hls/76/76.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", TV9 NUSANTARA
-http://103.179.182.117:6768/hls/77/77.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", TvMU
-http://103.179.182.117:6768/hls/78/78.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", MUI TV
-http://103.179.182.117:6768/hls/79/79.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", AL QURAN AL KAREEM
-http://103.179.182.117:6768/hls/80/80.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", DUNIA LAIN HD
-http://103.179.182.117:6768/hls/81/81.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", MTA TV
-http://103.179.182.117:6768/hls/82/82.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", K+
-http://103.179.182.117:6768/hls/83/83.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", Christv
-http://103.179.182.117:6768/hls/84/84.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", Vchannel
-http://103.179.182.117:6768/hls/85/85.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", Musik Indonesia
-http://103.179.182.117:6768/hls/87/87.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", MOONBUG
-http://103.179.182.117:6768/hls/89/89.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", THRILL
-http://103.179.182.117:6768/hls/90/90.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", Chinnes Drama
-http://103.179.182.117:6768/hls/92/92.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ LIVE || PLAYLISTTV", NTV
-http://103.179.182.117:6768/hls/93/93.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
-#EXTINF:-1 tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-channel.png" group-title="SHAREEXT@ LIVE || PLAYLISTTV",Disney Channel
-https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=221e176f3dfabb84ff506d65dd93b09f:6a97b8d4beed4d4b1697c1488706c6ca
-#EXTINF:-1 tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-junior.png" group-title="SHAREEXT@ LIVE || PLAYLISTTV",Disney Junior
-https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/out/v1/d62a555c1e5945f3bae88ae4018321d4/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=39cebece8b36640f9ba3f248ecfdf86a:fad936249e036830aa5bef41bec05326
-#EXTINF:-1 tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-xd.png" group-title="SHAREEXT@ LIVE || PLAYLISTTV",Disney XD
-https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/out/v1/8a5b29f7068c415aa371ea95743382e6/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=de9b995d2aba32bae1c5dbe38a46f2d9:a2d94fdff16e9c332164a73f8b170bd3
-#EXTINF:-1 tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/treehouse.png" group-title="SHAREEXT@ LIVE || PLAYLISTTV",Treehouse
-https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7y1plnj/out/v1/0c87bd17ab474015b77c0f3028190f78/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
-#EXTINF:-1 tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/ytv.png" group-title="SHAREEXT@ LIVE || PLAYLISTTV",YTV
-https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-id="MusicTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/009/50009-SNAPSHOT-l.png" group-title="SHAREEXT@ LIVE || PLAYLISTTV",Music TV
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTINF:-1 group-title="SHAREEXT@ LIVE || PLAYLISTTV" tvg-id="Bali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://static.mncnow.id/images/channel/cda6a457/7e41_r32.jpg",Bali TV
-https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=86e50e1506af46c780233c0091b67159:549788738d10df77094a0d4efaf0d567
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-logo="https://iili.io/Jbtnh2j.png" group-title="SHAREEXT@ LIVE || PLAYLISTTV", Bandung TV
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 group-title="SHAREEXT@ LIVE || PLAYLISTTV" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV Jogja
-https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 group-title="SHAREEXT@ LIVE || PLAYLISTTV" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b1/MGSTV_%282015%29.png",MGS TV
-https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_high.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 group-title="SHAREEXT@ LIVE || PLAYLISTTV" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&kodegb=200px-Kilisuci_TV.png",Kilisuci TV Kediri
-https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 group-title="SHAREEXT@ LIVE || PLAYLISTTV" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png",Surabaya TV
-https://e.siar.us/live/surabayatv.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 group-title="SHAREEXT@ LIVE || PLAYLISTTV" tvg-id="" tvg-url="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png",Madu TV
-https://re1.siar.us/madutv/hd720/playlist.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 group-title="SHAREEXT@ LIVE || PLAYLISTTV" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/86/DhohoTV.png",Dhoho TV- Kediri
-https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="SHAREEXT@ LIVE || PLAYLISTTV",TV Tabalong
-https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Bungo_TV.png" group-title="SHAREEXT@ LIVE || PLAYLISTTV",Bungo TV
-https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
-
-
 
 
 
@@ -895,9 +571,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
 #EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg",MOJI
-http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
 #EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/8.jpg",ANTV
-http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 #EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg",TV One
 https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
 #EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV
@@ -921,7 +597,7 @@ http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;useri
 #EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/80.jpg",BTV
 http://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=BTV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/8.jpg",antv
-http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+http://47.91.17.126:20002/Smartv.php?id=Antv
 #EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/13.jpg",NET.
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/22.jpg",RTV
@@ -2291,16 +1967,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Shareext@MOVIES",Cinemax
-http://103.179.182.117:6768/hls/26/26.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Shareext@MOVIES",HBO
-http://103.179.182.117:6768/hls/27/27.m3u8
-#EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Shareext@MOVIES",HBO Hits
-http://103.179.182.117:6768/hls/28/28.m3u8
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Shareext@MOVIES",HBO Signature
-http://103.179.182.117:6768/hls/29/29.m3u8
-#EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="Shareext@MOVIES",HBO Family
-http://103.179.182.117:6768/hls/30/30.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Shareext@MOVIES",HBO_SG(ott.navigator)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2648,14 +2314,8 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI_SPORT_denstv
-http://rr3.dens.tv/s/s107/index.m3u8
 #EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrijtown.jpg" group-title="SHAREEXT@TVRI Group",TVRI Jakarta
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
-#EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="SHAREEXT@TVRI Group",TVRI World
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
-#EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="SHAREEXT@TVRI Group",TVRI Sport HD
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 #EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/maluku.png" group-title="SHAREEXT@TVRI Group",TVRI Ambon
 https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon-avc1_1500000=10006-mp4a_96000=20001.m3u8
 #EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvribali.png" group-title="SHAREEXT@TVRI Group",TVRI Bali
@@ -4389,7 +4049,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="103.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tQ51.png",TV3
-https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
 #EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="145.astro" tvg-logo="https://pictr.com/images/2025/01/20/xplO5f.png",TV6_mpd
 #KODIPROP:contentlookup=False
@@ -4494,13 +4153,13 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/26.m3u8
+
 
 #EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="123" tvg-logo="https://pictr.com/images/2025/01/13/x1k1JJ.png",Astro Sensasi
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/28.m3u8
+
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://pictr.com/images/2025/01/14/x12Nkx.png",BollywooDᴴᴰ बॉलीवुड
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
@@ -4819,16 +4478,13 @@ https://xatv-yt.xiancity.cn/live/6/index.m3u8
 https://xatv-yt.xiancity.cn/live/7/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", 全國黨員教育電視
 https://12371wbndbd.a.bdydns.com/12371wbnd/dangyuanwang_2/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", 新疆衛視HD
-http://k.061899.xyz/m.php?id=xjws 
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", Macau lotus 1.澳門蓮花衛視
 http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", MacauLotus 2.澳門蓮花衛視
 https://fenghuang.tv12.xyz/187.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", MacauLotus 3.澳門蓮花衛視
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", 兵團衛視HD.1
-http://k.061899.xyz/m.php?id=btws
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", 兵團衛視HD.2
 http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-id="TDMMacauSatellite.mo" tvg-logo="https://i.imgur.com/iIfZsD6.png" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", Ou-Mun Macau Satellite Ch. 96 (720p)
@@ -4846,16 +4502,8 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 #EXTINF:-1 tvg-id="WXTV.tw" tvg-logo="https://i.imgur.com/s8tiTeb.png" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", 唯心電視 (480p)
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", HBO HD
-http://125.227.210.55:8153/VideoInput/play.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", 緯來體育臺
-http://125.227.210.55:8155/VideoInput/play.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", 三立臺灣臺
-http://125.227.210.55:8160/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", Bloomberg
 http://125.227.210.55:8161/VideoInput/play.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", 三立新聞
-http://125.227.210.55:8162/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", BBC new
 http://125.227.210.55:8165/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", CNN new
@@ -4888,34 +4536,6 @@ http://125.227.210.55:44350/VideoInput/play.ts
 http://125.227.210.55:60116/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", KOREA臺
 http://125.227.210.55:48553/VideoInput/play.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", (大街)民視
-rtmp://f13h.mine.nu/sat/tv051
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", (大街)台視
-rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", (大街)台台
-rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", (大街)華視
-rtmp://f13h.mine.nu/sat/tv111
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", TVBS新聞
-rtmp://f13h.mine.nu/sat/tv551
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", TVBS歡樂
-rtmp://f13h.mine.nu/sat/tv421
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", 東森財經新聞
-rtmp://f13h.mine.nu/sat/tv571
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", 東森超視
-rtmp://f13h.mine.nu/sat/tv521
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", 緯來育樂
-rtmp://f13h.mine.nu/sat/tv701
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", 緯來體育
-rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", ELEVEN 1
-rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", ELEVEN 2
-rtmp://f13h.mine.nu/sat/tv741
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", 緯來日本
-rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视", MOMO綜合
-rtmp://f13h.mine.nu/sat/tv761
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",CINEMAX
 http://125.227.210.55:8151/VideoInput/play.ts
@@ -5090,16 +4710,6 @@ https://xatv-yt.xiancity.cn/live/5/index.m3u8
 https://xatv-yt.xiancity.cn/live/6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",西安移動頻道
 https://xatv-yt.xiancity.cn/live/7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",緯來體育 vsports
-rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",台視
-rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",中視
-rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",華視
-rtmp://f13h.mine.nu/sat/tv111
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",民視
-rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",LotusMacau_澳門蓮花衛視
 http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",LotusMacau
@@ -6062,50 +5672,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=194
 #EXTINF:0 tvg-id="htvthethaohd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.imgur.com/z7NOxJ3.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=18&time=${start}&offset=${duration}",HTV Thể Thao
 https://freem3u.xyz/api/live/play.m3u8?vid=195
 
-#EXTINF:-1 tvg-id="sctv1hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/yBnxfhH/sctv1-hd.png",SCTV1
-https://liveh12.seenow.vn/hls/SCTV1/index.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/VqNpntW/sctv2-hd.png",SCTV2
-https://liveh12.seenow.vn/hls/SCTV2/index.m3u8
-#EXTINF:-1 tvg-id="sctv3hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/pwy6LhX/sctv3-hd.png",SCTV3
-https://liveh12.seenow.vn/hls/SCTV3/index.m3u8
-#EXTINF:-1 tvg-id="sctv4hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/rHsWYhW/sctv4-hd.png",SCTV4
-https://liveh12.seenow.vn/hls/SCTV4/index.m3u8
-#EXTINF:-1 tvg-id="sctv5hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/HpgQgB5/logo26072108-sctv6-hd.png",SCTV5
-https://liveh12.seenow.vn/hls/SCTV5/index.m3u8
-#EXTINF:-1 tvg-id="sctv6hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/HpgQgB5/logo26072108-sctv6-hd.png",SCTV6
-https://liveh12.seenow.vn/hls/SCTV6/index.m3u8
-#EXTINF:-1 tvg-id="sctv7hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/q52fk4p/logo26072108-sctv7-hd.png",SCTV7
-https://liveh12.seenow.vn/hls/SCTV7/index.m3u8
-#EXTINF:-1 tvg-id="sctv8hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/1Z8k49W/logo26072108-sctv8.png",SCTV8
-https://liveh12.seenow.vn/hls/SCTV8/index.m3u8
-#EXTINF:-1 tvg-id="sctv9hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/bdMgBLN/logo26072108-sctv9-hd.png",SCTV10
-https://liveh12.seenow.vn/hls/SCTV10/index.m3u8
-#EXTINF:-1 tvg-id="sctv11hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/88mFbmH/logo26072108-sctv11-hd.png",SCTV11
-https://liveh12.seenow.vn/hls/SCTV11/index.m3u8
-#EXTINF:-1 tvg-id="sctv12hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/hxNHc7x/logo26072108-sctv12-hd.png",SCTV12
-https://liveh12.seenow.vn/hls/SCTV12/index.m3u8
-#EXTINF:-1 tvg-id="sctv13hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/3pQsyPf/logo26072108-sctv13-hd.png",SCTV13
-https://liveh12.seenow.vn/hls/SCTV13/index.m3u8
-#EXTINF:-1 tvg-id="sctv14hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/wLKj69Q/logo26072108-sctv14-hd.png",SCTV14
-https://liveh12.seenow.vn/hls/SCTV14/index.m3u8
-#EXTINF:-1 tvg-id="sctv15hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/jZzbTYK/logo26072108-sctv15-hd.png",SCTV15
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv15
-#EXTINF:-1 tvg-id="sctv16hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/1KsLhCz/logo26072108-sctv16-hd.png",SCTV16
-https://liveh12.seenow.vn/hls/SCTV16/index.m3u8
-#EXTINF:-1 tvg-id="sctv17hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/RS1Rq74/logo26072108-sctv17-hd.png",SCTV17
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv17
-#EXTINF:-1 tvg-id="sctv18hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/LY0CW6H/logo26072108-sctv18-hd.png",SCTV18
-https://liveh12.seenow.vn/hls/SCTV18/index.m3u8
-#EXTINF:-1 tvg-id="sctv19hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/5TrWMKr/logo26072108-sctv19-hd.png",SCTV19
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
-#EXTINF:-1 tvg-id="sctv20hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/5G0DjnW/logo26072108-sctv20-hd.png",SCTV20
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
-#EXTINF:-1 tvg-id="sctv21hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/nmxNkPG/s21-hd.jpg",SCTV21
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
-#EXTINF:-1 tvg-id="sctv22hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/JK0TF38/sctv22-hd.png",SCTV22
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv22
-#EXTINF:-1 tvg-id="sctvpthhd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/G2XQD3X/logo26072108-sctv-phim-THHD.png",SCTV Phim tổng hợp
-https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8
+
+
 #EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.imgur.com/tW0pGBM.png",BTV HD | TH Bình Thuận
