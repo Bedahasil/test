@@ -711,29 +711,6 @@ https://flv.intechmedia.net/live/ch118.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", JagantaraTv (intec)
 https://flv.intechmedia.net/live/ch119.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SHAREEXT@ DENZ TV", INDOSIAR (smart)
-http://47.91.17.126:20002/Smartv.php?id=Indosiar
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SXV88k2/rcti.png" group-title="SHAREEXT@ DENZ TV", RCTI (smart)
-http://47.91.17.126:20002/Smartv.php?id=Rcti
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="SHAREEXT@ DENZ TV", MNCTV (smart)
-http://47.91.17.126:20002/Smartv.php?id=Mnctv
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", GTV (smart)
-http://47.91.17.126:20002/Smartv.php?id=Gtv
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", INEWS (smart)
-http://47.91.17.126:20002/Smartv.php?id=Inewstv
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", SCTV (smart)
-http://47.91.17.126:20002/Smartv.php?id=SCTV
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", KOMPASTV (smart)
-http://47.91.17.126:20002/Smartv.php?id=Kompass
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", ANTV (smart)
-http://47.91.17.126:20002/Smartv.php?id=Antv
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501492_tvchannels_v1.jpg" group-title="SHAREEXT@ DENZ TV", TVONE (smart)
-http://47.91.17.126:20002/Smartv.php?id=Tvone
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", TRANSTV (smart)
-http://47.91.17.126:20002/Smartv.php?id=Transtv
-#EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="SHAREEXT@ DENZ TV", TRANS 7 (smart)
-http://47.91.17.126:20002/Smartv.php?id=Trans7_eko
-
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="SHAREEXT@ DENZ TV",HBO HD
 http://iptvtree.net:8080/F28312/cc1dc138/306484
 #EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="SHAREEXT@ DENZ TV",HBO Hits HD
@@ -2416,17 +2393,6 @@ http://aromatv.co/live/Enjy3637/4JFEBAs359/444179.ts
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="Shareext@MOVIES",CINEMAX @ID
 http://aromatv.co/live/Enjy3637/4JFEBAs359/444180.ts
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="Shareext@MOVIES",HBO (MLYS)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="Shareext@MOVIES",HBO HITS (MLYS)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Hbohits/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="Shareext@MOVIES",HBO SIGNATURE (MLYS)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Hbosignature/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="Shareext@MOVIES",HBO FAMILY (MLYS)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Hbofamily/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="Shareext@MOVIES",CINEMAX (MLYS)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Cinemax/playlist.m3u8
-
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="Shareext@MOVIES",HBO HD @TWN
 http://smart.cityq.xyz:8278/Hbo/playlist.m3u8?tid=MBFB6285247862852478&ct=20241&tsum=3dfc96c23ea99264ac3f9f239ec9b589
 #EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="Shareext@MOVIES",HBO Hits @TWN
@@ -3947,40 +3913,10 @@ https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_1.m3u8
 
 
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
-#EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS",HBO_HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
-#EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS",HBO Hits
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
-#EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS",HBO Family 
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS",HBO Signature
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
-#EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS",Cinemax
-https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS",Indosiar
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -4462,42 +4398,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="SHAREEXT@Television/MY/ASTRO", Citra
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Citra/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="SHAREEXT@Television/MY/ASTRO",Aura
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Aura/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="SHAREEXT@Television/MY/ASTRO",Rania
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Rania/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="SHAREEXT@Television/MY/ASTRO",Oasis
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Oasis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="SHAREEXT@Television/MY/ASTRO",Ceria
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Ceria/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="SHAREEXT@Television/MY/ASTRO",Ria
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Ria/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="SHAREEXT@Television/MY/ASTRO",TV3
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/TV3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="SHAREEXT@Television/MY/ASTRO",Prima
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Prima/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="SHAREEXT@Television/MY/ASTRO",AEC
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/AEC/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png" group-title="SHAREEXT@Television/MY/ASTRO",Hua Hee
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Huahee/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="SHAREEXT@Television/MY/ASTRO",Quanjia
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Quanjia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="SHAREEXT@Television/MY/ASTRO",TVB Jade
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Tvbjade/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png" group-title="SHAREEXT@Television/MY/ASTRO",TVB Asia
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Tvbasia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/427_144.png" group-title="SHAREEXT@Television/MY/ASTRO",TVB Entertainment
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Tvbentertainment/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" group-title="SHAREEXT@Television/MY/ASTRO",TVBClassic
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Tvbclassic/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="SHAREEXT@Television/MY/ASTRO",Xing He
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Xinhe/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="SHAREEXT@Television/MY/ASTRO",Qiyi
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Qiyi/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png" group-title="SHAREEXT@Television/MY/ASTRO",Showcase
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Showcase/playlist.m3u8
 
 #EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="101.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tW45.png",TV1_mpd
 #KODIPROP:contentlookup=False
@@ -5155,42 +5055,6 @@ https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv1-(wanjia)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cctv1/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv2-(wanjia)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cctv2/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv3-(wanjia)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cctv3/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv4-(wanjia)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cctv4/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv5-(wanjia)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cctv5/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv5p-(wanjia)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cctv5plus/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV-6(wanjia)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cctv6/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv7-(wanjia)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cctv7/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv8-(wanjia)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cctv8/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv9-(wanjia)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cctv9/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv10-(wanjia)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cctv10/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv11-(wanjia)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cctv11/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv12-(wanjia)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cctv12/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv13-(wanjia)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cctv13/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv14-(wanjia)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cctv14/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv15-(wanjia)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cctv15/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv16-(wanjia)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cctv16/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv17-(wanjia)
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/cctv17/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TDMSports.mo" tvg-logo="https://i.imgur.com/AsWLf8S.png" group-title="SHAREEXT@CHINA_STATION/央视频道", TDM Sports (720p)
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
@@ -5433,82 +5297,6 @@ https://0472.org/hls/cgtna.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",NHK G
-https://mt01.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",NHK E
-https://mt01.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",NTV
-https://mt01.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",TBS
-https://mt01.utako.moe/TBS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",Fuji TV
-https://mt01.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",TV Asahi
-https://mt01.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",TV Tokyo
-https://mt01.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",TOKYO MX1
-https://mt01.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",TOKYO MX2
-https://mt01.utako.moe/Tokyo_MX2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",MBS
-https://mt01.utako.moe/mbs/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",ABC
-https://mt01.utako.moe/abc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",TV Osaka
-https://mt01.utako.moe/tvo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",Kansai TV
-https://mt01.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",ytv
-https://mt01.utako.moe/ytv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",KBS
-https://mt01.utako.moe/kbs/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",SUN
-https://mt01.utako.moe/suntv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",NHK BS
-https://mt01.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",BS NTV
-https://mt01.utako.moe/bsntv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",BS Asahi
-https://mt01.utako.moe/bsasahi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",BS TBS
-https://mt01.utako.moe/bstbs/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",BS TV Tokyo
-https://mt01.utako.moe/bstvtokyo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",BS Fuji
-https://mt01.utako.moe/bsfuji/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",BS10
-https://mt01.utako.moe/bs10/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",BS11
-https://mt01.utako.moe/BS11/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",BS12
-https://mt01.utako.moe/bs12/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",NHK BS4K
-https://mt01.utako.moe/bsp4k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",BS TV Tokyo 4K (test)
-https://mt01.utako.moe/bstx4k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",WOWOW Prime
-https://mt01.utako.moe/wprime/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",WOWOW Cinema
-https://mt01.utako.moe/wcinema/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",WOWOW Live
-https://mt01.utako.moe/wlive/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",BS 10 Star Channel
-https://mt01.utako.moe/bs10_star/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",JSport 1
-https://mt01.utako.moe/js1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",JSport 2
-https://mt01.utako.moe/js2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",JSport 3
-https://mt01.utako.moe/js3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",JSport 4
-https://mt01.utako.moe/js4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",Green Channel
-https://mt01.utako.moe/green/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",Gaora Sports
-https://mt01.utako.moe/gaora/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",AT-X
-https://mt01.utako.moe/AT-X/index.m3u8
 
 
 
